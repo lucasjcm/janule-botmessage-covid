@@ -17,4 +17,5 @@ datestring = latest_day_data[0].strip('"')
 total_deaths = int(latest_day_data[1])
 new_deaths = int(latest_day_data[2])
 
-print(f'Total deaths as of {datestring}: {total_deaths:,} ({new_deaths:,} new)')
+# TODO: Add USA flag emoji.
+print(f'Total deaths (USA) as of {datestring}: {total_deaths:,} ({new_deaths:,} new)')
