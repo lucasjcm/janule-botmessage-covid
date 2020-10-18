@@ -34,4 +34,7 @@ def generate_flag_emoji(country_code):
 
 us_flag_emoji = generate_flag_emoji('US')
 
-print(f'{us_flag_emoji} {datestring}: {total_cases:,} total cases, {total_deaths:,} total deaths')
+stats_str = f'{us_flag_emoji} {datestring}: {total_cases:,} total cases, {total_deaths:,} total deaths'
+source_str = 'https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv'
+
+print(f'{stats_str} | {source_str}')
