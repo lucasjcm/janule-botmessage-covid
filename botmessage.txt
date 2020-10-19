@@ -1,1 +1,1 @@
-🇺🇸 2020-10-18: 8,173,154 total cases, 219,428 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
+🇺🇸 2020-10-18: 8,188,764 total cases, 219,537 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
