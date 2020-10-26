@@ -27,7 +27,7 @@ def generate_flag_emoji(country_code):
      - (main source) https://schinckel.net/2015/10/29/unicode-flags-in-python/
      - (linked above in main source) https://esham.io/2014/06/unicode-flags
 
-    :rtype str: Generated flag emoji TODO confirm
+    :rtype str: Generated flag emoji
     """
     OFFSET = ord('🇦') - ord('A') 
     return chr(ord(country_code[0]) + OFFSET) + chr(ord(country_code[1]) + OFFSET)
