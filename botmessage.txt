@@ -1,1 +1,1 @@
-🇺🇸 2020-11-12: 10,626,750 total cases, 242,790 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
+🇺🇸 2020-11-13: 10,637,421 total cases, 242,860 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
