@@ -1,1 +1,1 @@
-🇺🇸 2020-12-22: 18,083,055 total cases, 319,762 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
+🇺🇸 2020-12-22: 18,083,055 total cases, 319,763 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
