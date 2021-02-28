@@ -1,1 +1,1 @@
-🇺🇸 2021-02-28: 28,572,021 total cases, 511,850 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
+🇺🇸 2021-02-28: 28,596,281 total cases, 512,483 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
