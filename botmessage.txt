@@ -1,1 +1,1 @@
-🇺🇸 2021-03-05: 28,893,489 total cases, 520,715 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
+🇺🇸 2021-03-05: 28,933,058 total cases, 522,360 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
