@@ -1,1 +1,1 @@
-🇺🇸 2021-05-21: 33,076,464 total cases, 588,153 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
+🇺🇸 2021-05-21: 33,078,598 total cases, 588,192 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
