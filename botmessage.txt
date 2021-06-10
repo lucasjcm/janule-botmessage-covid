@@ -1,1 +1,1 @@
-🇺🇸 2021-06-09: 33,406,897 total cases, 598,218 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
+🇺🇸 2021-06-09: 33,417,012 total cases, 598,288 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
