@@ -1,1 +1,1 @@
-🇺🇸 2021-07-08: 33,754,725 total cases, 605,581 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
+🇺🇸 2021-07-08: 33,769,507 total cases, 605,792 total deaths | https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us.csv
